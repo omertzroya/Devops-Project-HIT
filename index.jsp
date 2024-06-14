@@ -25,7 +25,12 @@
     %>
 
     <a href="https://www.advantageonlineshopping.com/#/" target="_blank">Link to Website</a>
+<<<<<<< HEAD
 
+=======
+<h1>text</h1>
+<h2>hello</h2>
+>>>>>>> fba360dd62d00b299c6451c0150e60585a55ec5f
 
 </body>
 </html>
